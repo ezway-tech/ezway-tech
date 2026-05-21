@@ -1,31 +1,18 @@
 # ## Hi there, we are Ezway Tech 👋
+> **"Making tough challenges simpler."**
 
-### 🚀 Crafting the Future of Web Ecosystems
-We are a dedicated team of developers and designers specialized in building high-performance IT solutions and scalable web ecosystems.
+### 🚀 What We Do
+We build high-performance web ecosystems and premium IT solutions.
 
----
-
-### 🌟 Featured Project: **TailTheme**
-**TailTheme** is our flagship ecosystem designed to empower developers with modern, flexible, and lightning-fast web templates.
-
-* 🎨 **Modern Design**: Built with a focus on aesthetics and user experience.
-* ⚡ **Performance Driven**: Highly optimized for SEO and Core Web Vitals.
-* 🧩 **Modular Architecture**: Easy-to-customize components for any web project.
+* 🌟 **TailTheme**: Our flagship modern & fast web template ecosystem.
+* 🌐 **Web Dev**: Custom E-commerce, SaaS, and Portfolios.
+* 📦 **Templates**: High-quality, reusable themes for developers.
+* 🔧 **Consulting**: Technical strategies to scale your business.
 
 ---
 
-### 🛠️ What We Do
-Beyond TailTheme, we provide a wide range of premium IT services:
-* 🌐 **Custom Web Development**: Tailor-made websites (E-commerce, SaaS, Portfolio).
-* 📦 **Template Ecosystems**: Crafting reusable, high-quality themes for various industries.
-* 🔧 **IT Consulting**: Providing technical strategies to help businesses scale effectively.
-
----
-
-### 📈 Our GitHub Stats
+### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezway-tech&show_icons=true&theme=tokyonight" alt="ezway-tech Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezway-tech&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezway-tech&show_icons=true&theme=tokyonight&height=150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezway-tech&layout=compact&theme=tokyonight&height=150" />
 </p>
-
-*“Simplifying Technology, Amplifying Results.”*
