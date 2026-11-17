@@ -6,8 +6,8 @@ We build practical tools that help developers create interfaces and keep project
 
 ### 🚀 Our Products
 
-- **TailTheme** — A web template ecosystem for building modern dashboards and admin interfaces.
-- **Atlas Docs** — A free, open-source workspace for organizing, reading, and editing local project documentation. Built for Markdown, diagrams, API references, and more.
+- **[TailTheme](https://tailtheme.ezway.tech/)** — React templates for building modern dashboards and admin interfaces. Explore [Lite](https://github.com/ezway-tech/tailtheme-reactjs-lite) and [Full](https://github.com/ezway-tech/tailtheme-reactjs-full).
+- **[Atlas Docs](https://github.com/ezway-tech/atlas-docs)** — A free, open-source workspace for organizing, reading, and editing local project documentation. Built for Markdown, diagrams, API references, and more.
 
 ### 🌱 Our Approach
 
@@ -17,5 +17,6 @@ Atlas Docs is free to use. Voluntary donations help support its continued develo
 
 ### 🔗 Explore
 
+- [TailTheme](https://tailtheme.ezway.tech/)
 - [Atlas Docs](https://github.com/ezway-tech/atlas-docs)
-- [Website](https://ezway.tech)
+- [All repositories](https://github.com/ezway-tech?tab=repositories)
